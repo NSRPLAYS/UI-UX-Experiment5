@@ -11,6 +11,27 @@
 4. Create user personas to represent typical users and their goals.
 5. Use insights to inform design improvements for usability, personalization, and accessibility.
 ## Output:
+2. Suitable Research Methods + Justification
+Surveys
+
+To collect broad data about users’ daily health routines, difficulties, and preferred features.
+
+Useful for understanding general patterns among busy adults.
+
+User Interviews
+
+Helps deeply understand emotional motivations (e.g., stress, burnout, guilt).
+
+Reveals nuanced pain points that surveys may miss.
+
+ Usability Testing (Later Stage)
+
+Tests whether users can easily track habits and access quick health insights.
+
+Justification:
+A mix of surveys + interviews provides both breadth and depth.
+Usability testing ensures the final design truly reduces friction for busy users.
+
 <img width="285" height="598" alt="image" src="https://github.com/user-attachments/assets/6d6a22a2-0ca5-4006-902b-4d17ecd350c4" />
 
 ## Result:
